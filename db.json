@@ -1,28 +1,12 @@
 {
   "clientes": [
     {
-      "nombre": "Damian ALEJANDRO!!",
-      "empresa": "People Coworking",
+      "nombre": "Prueba agregar clientes",
+      "empresa": "Se borraran al actualizar",
       "email": "damian.oliva@hotmail.com",
-      "telefono": "01151486202",
-      "notas": "asdasd",
+      "telefono": "11111111",
+      "notas": "Esta es una base de datos de prueba, podras agregar, borrar y hacer lo que quieras, pero se borrara todo al actualizar.",
       "id": 1
-    },
-    {
-      "nombre": "Damian Alejandro Oliva",
-      "empresa": "People Coworking",
-      "email": "damian.oliva@hotmail.com",
-      "telefono": "01151486202",
-      "notas": "asdasd",
-      "id": 2
-    },
-    {
-      "nombre": "Damian Oliva",
-      "empresa": "Cervecero vegano",
-      "email": "damian.oliva@hotmail.com",
-      "telefono": "01151486202",
-      "notas": "asdasd",
-      "id": 3
     }
   ]
 }
