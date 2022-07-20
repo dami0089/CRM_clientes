@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Damian ALEJANDRO!!",
+      "empresa": "People Coworking",
+      "email": "damian.oliva@hotmail.com",
+      "telefono": "01151486202",
+      "notas": "asdasd",
+      "id": 1
+    },
+    {
+      "nombre": "Damian Alejandro Oliva",
+      "empresa": "People Coworking",
+      "email": "damian.oliva@hotmail.com",
+      "telefono": "01151486202",
+      "notas": "asdasd",
+      "id": 2
+    },
+    {
+      "nombre": "Damian Oliva",
+      "empresa": "Cervecero vegano",
+      "email": "damian.oliva@hotmail.com",
+      "telefono": "01151486202",
+      "notas": "asdasd",
+      "id": 3
+    }
+  ]
+}
